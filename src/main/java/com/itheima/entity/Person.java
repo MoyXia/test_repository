@@ -8,4 +8,5 @@ package com.itheima.entity;
 public class Person {
     public String name;
     public int id;
+    public int age;
 }
