@@ -10,4 +10,5 @@ public class Person {
     public int id;
     public int age;
     public boolean sex;
+    public int house;
 }
